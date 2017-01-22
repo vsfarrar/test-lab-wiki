@@ -7,7 +7,8 @@ Organized by assay type workflows. Projects are grouped into Milestones, availab
 
 **Active Workflows:**
 
-*[Gel electrophoresis](test_workflow.md)
+*[Gel electrophoresis](test_workflow.md)<br>
+*[PCR](pcr_workflow.md)
 
 **Current projects:**
 
