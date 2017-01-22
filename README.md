@@ -12,4 +12,4 @@ Organized by assay type workflows. Projects are grouped into Milestones, availab
 
 **Current projects:**
 
-*[qPCR validation](https://github.com/vsfarrar/test-lab-wiki/issues)
+*[qPCR validation](https://github.com/vsfarrar/test-lab-wiki/milestones)
